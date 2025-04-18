@@ -11,14 +11,14 @@ My background includes working with statistical and laboratory data, performing 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [Python]
-    - [Mobile configuration data analysis](https://github.com/olhashulha/mobile_stat/blob/main/Mobile%20statistic.ipynb)
+    - [Mobile configuration data analysis](https://github.com/olhashulha/Data_Analysis_Portfolio/blob/main/Mobile_statistics.ipynb)
 
  - [Power BI]
-   - [Mobile statistic dashboard](#Mobile%20statistic%20dashboard.pbix)
+   - [Mobile statistic dashboard](https://github.com/olhashulha/Data_Analysis_Portfolio/blob/main/Mobile_statistics_dashboard.pbix)
 
 ## Portfolio Projects
 ## Mobile configuration data analysis
-Code: [Mobile statistic.ipynb](Mobile%20statistic.ipynb)
+Code: [Mobile statistic.ipynb](Mobile_statisticы.ipynb)
 
 Goal:
 - Handle missing values (e.g., impute with mean/median, drop rows/columns).
@@ -28,5 +28,5 @@ Goal:
 - Use an API to geocode coordinates into city names.
 Create new calculated columns.
 
-№№ 
-File: [Mobile statistic dashboard](#mobile_stat_dashboard.pbix)
+## Mobile statistics dashboard
+File: [Mobile statistic dashboard](Mobile_statistics_dashboard.pbix)
