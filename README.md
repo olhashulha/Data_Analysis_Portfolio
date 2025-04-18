@@ -18,7 +18,7 @@ My background includes working with statistical and laboratory data, performing 
 
 ## Portfolio Projects
 ## Mobile configuration data analysis
-Code: [Mobile statistic.ipynb](Mobile_statisticы.ipynb)
+Code: [Mobile statistic.ipynb](Mobile_statistics.ipynb)
 
 Goal:
 - Handle missing values (e.g., impute with mean/median, drop rows/columns).
