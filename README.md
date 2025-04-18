@@ -14,7 +14,7 @@ My background includes working with statistical and laboratory data, performing 
     - [Mobile configuration data analysis](https://github.com/olhashulha/mobile_stat/blob/main/Mobile%20statistic.ipynb)
 
  - [Power BI]
-   - 
+   - [Mobile statistic dashboard](#Mobile%20statistic%20dashboard.pbix)
 
 ## Portfolio Projects
 ## Mobile configuration data analysis
@@ -28,3 +28,5 @@ Goal:
 - Use an API to geocode coordinates into city names.
 Create new calculated columns.
 
+№№ 
+File: [Mobile statistic dashboard](#mobile_stat_dashboard.pbix)
