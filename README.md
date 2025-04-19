@@ -1,4 +1,4 @@
-# Olha Shulha - - Data Analyst Portfolio
+# Olha Shulha - Data Analyst Portfolio
 ## About
 Hi, I am Olha! 
 
@@ -13,8 +13,8 @@ My background includes working with statistical and laboratory data, performing 
   - [Python]
     - [Mobile configuration data analysis](https://github.com/olhashulha/Data_Analysis_Portfolio/blob/main/Mobile_statistics.ipynb)
 
- - [Power BI]
-   - [Mobile statistic dashboard](https://github.com/olhashulha/Data_Analysis_Portfolio/blob/main/Mobile_statistics_dashboard.pbix)
+  - [Power BI]
+    - [Mobile statistics dashboard](https://github.com/olhashulha/Data_Analysis_Portfolio/blob/main/Mobile_statistics_dashboard.pbix)
 
 ## Portfolio Projects
 ## Mobile configuration data analysis
@@ -30,3 +30,5 @@ Create new calculated columns.
 
 ## Mobile statistics dashboard
 File: [Mobile statistic dashboard](Mobile_statistics_dashboard.pbix)
+
+Web: https://app.powerbi.com/view?r=eyJrIjoiY2Q1MTI1ZWQtODJmYS00ZDA0LTlmMGYtOTAyNzkxZDE0ZWM1IiwidCI6IjZlYWE3ZDIyLWQyNzctNGFmOC05MzUzLTZlNzU3YTY5OTMwMSIsImMiOjl9&pageName=35121fd9a356635fbcb9
