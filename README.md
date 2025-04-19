@@ -10,10 +10,10 @@ My background includes working with statistical and laboratory data, performing 
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Python]
+  - Python
     - [Mobile configuration data analysis](https://github.com/olhashulha/Data_Analysis_Portfolio/blob/main/Mobile_statistics.ipynb)
 
-  - [Power BI]
+  - Power BI
     - [Mobile statistics dashboard](https://github.com/olhashulha/Data_Analysis_Portfolio/blob/main/Mobile_statistics_dashboard.pbix)
 
 ## Portfolio Projects
