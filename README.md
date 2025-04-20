@@ -93,4 +93,8 @@ To build an interactive dashboard that visualizes mobile configuration and usage
 
 
 ## Certificates
-- Data Analytics Pro (Jan 2025) (Hillel IT School. ID: 91328559) 
+- [Data Analytics Pro](https://certificate.ithillel.ua/view/91328559)
+
+  Hillel IT School - Jan 2025
+
+  ID: 91328559
