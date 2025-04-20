@@ -16,7 +16,8 @@ My background includes working with statistical and laboratory data, performing 
     - [Mobile traffic distribution by region](https://github.com/olhashulha/Data_Analysis_Portfolio/blob/main/Mobile_statistics_calculation.sql)
   - Power BI
     - [Mobile statistics dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2Q1MTI1ZWQtODJmYS00ZDA0LTlmMGYtOTAyNzkxZDE0ZWM1IiwidCI6IjZlYWE3ZDIyLWQyNzctNGFmOC05MzUzLTZlNzU3YTY5OTMwMSIsImMiOjl9&pageName=35121fd9a356635fbcb9)
-
+- [Certificates](#certificates)
+- [Contacts](#contacts)
 
 ## Portfolio Projects
 ## Mobile configuration data analysis
@@ -98,3 +99,8 @@ To build an interactive dashboard that visualizes mobile configuration and usage
   Hillel IT School - Jan 2025
 
   ID: 91328559
+
+
+  ## Contacts
+- LinkedIn: [@olha-shulha](https://www.linkedin.com/in/olha-shulha-4b1952173/)
+- Email: olha.shulha@gmail.com
