@@ -103,4 +103,4 @@ To build an interactive dashboard that visualizes mobile configuration and usage
 
   ## Contacts
 - LinkedIn: [@olha-shulha](https://www.linkedin.com/in/olha-shulha-4b1952173/)
-- Email: olha.shulha@gmail.com
+- Email: o.o.shulha@gmail.com
